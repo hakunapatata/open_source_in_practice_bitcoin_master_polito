@@ -20,7 +20,7 @@ Each file is named according to its topic and task number (e.g. `01_the_role_of_
 2. Comment on the issue to request assignment.
 3. Wait for a maintainer to assign you the task.
 4. Fork the repo and create a branch.
-5. Edit your assigned file inside the `tasks/` folder.
+5. Edit your assigned file inside the `docs/` folder.
 6. Open a pull request referencing the issue.
 
 Happy contributing!
